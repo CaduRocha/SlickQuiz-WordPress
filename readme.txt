@@ -1,3 +1,8 @@
+*** THIS PROJECT IS NO LONGER ACTIVELY MAINTAINED. ***
+
+*** PLEASE SEE [jewlofthelotus/SlickQuiz-WordPress](https://github.com/jewlofthelotus/SlickQuiz-WordPress) for updates. ***
+
+
 === SlickQuiz ===
 Contributors: jewlofthelotus
 Tags: quiz, jquery, slickquiz, javascript, education, generator, manager, test
@@ -34,7 +39,7 @@ NOTE: If the Preview window does not appear from the create / edit page, *you ma
 
 NOTE: Do not place the same quiz on the page multiple times, things will break.
 
-Created by [Julie Cameron](http://juliecameron.com/) - Software Engineer at [Quicken Loans](http://quickenloans.com), Detroit, MI
+Created by [Julie Cameron](http://juliecameron.com/) while previously employed at [Quicken Loans](http://quickenloans.com), Detroit, MI
 
 Based off the [SlickQuiz jQuery plugin](https://github.com/QuickenLoans/SlickQuiz).
 
